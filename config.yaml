@@ -1,0 +1,3 @@
+model_path: /home/rk/code/Fusion_Detect/yoloxs_tk2_RK3588_i8.rknn
+LABEL_NALE_TXT_PATH: /home/rk/code/Fusion_Detect/model/coco_80_labels_list.txt
+OBJ_CLASS_NUM: 3
